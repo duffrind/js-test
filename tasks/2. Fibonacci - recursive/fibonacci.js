@@ -1,6 +1,3 @@
-export default {
-  getFibonacciUntil(n) {
-    // TODO: write your code here, dont forget it should be recursive!
-    // HINT: there is a trap
-  }
-};
+export function getFibonacciUntil(n) {
+  //TODO write your code here, remember it should be recursive
+}

@@ -14,4 +14,7 @@ Implement a function that **takes in a string**, and determines if the **opening
 * ()))
 * (()()(()
 
-**There can be characters anywhere between, after or before the parenteses**.
+## Tips & Tricks
+* There can be characters anywhere between, after or before the parenteses.
+* Think about how can things go wrong, if the amount of opening & closing parentheses are the same.
+
